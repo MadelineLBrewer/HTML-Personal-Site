@@ -1,0 +1,24 @@
+body {
+  background-color: #E7FBBE;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: green;
+  border-width: 8px;
+  width: 20%;
+}
+
+h1 {
+  color: #FF008E;
+}
+
+h3 {
+  color: #FF008E;
+}
+
+img {
+  height: 225px;
+  width: 225px;
+  border-radius: 100%;
+}
